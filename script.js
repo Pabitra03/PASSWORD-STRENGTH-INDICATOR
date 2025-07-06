@@ -12,8 +12,7 @@ passwordInput.addEventListener("input", () => {
   if (/[A-Z]/.test(password)) strength++;
   if (/[0-9]/.test(password)) strength++;
   if (/[^A-Za-z0-9]/.test(password)) strength++;
-
-  // Set strength bar and text
+  
   switch (strength) {
     case 0:
       strengthBar.style.width = "0%";
