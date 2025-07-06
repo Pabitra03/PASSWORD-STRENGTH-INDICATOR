@@ -24,4 +24,4 @@ Provides real-time feedback on password strength with dynamic styling, hints, an
 
 > Here's how the app looks in action:
 
-![Password Strength App Screenshot](screenshot.png)
+![Password Strength App Screenshot](https://github.com/Pabitra03/PASSWORD-STRENGTH-INDICATOR/blob/main/image.png?raw=true)
