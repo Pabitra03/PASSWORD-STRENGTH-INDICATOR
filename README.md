@@ -1,7 +1,7 @@
 # 🔐 Password Strength Indicator
 
 A clean and modern **Password Strength Checker** using **HTML, CSS, and JavaScript**.  
-Provides real-time feedback on password strength with dynamic styling, hints, and a day/night theme toggle.
+Provides real-time feedback on password strength and with a day/night theme toggle.
 
 ---
 
