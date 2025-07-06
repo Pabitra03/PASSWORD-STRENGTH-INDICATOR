@@ -11,7 +11,6 @@ Provides real-time feedback on password strength with dynamic styling, hints, an
 - 📊 Strength meter with color-coded feedback
 - 🌙 Light/Dark mode toggle
 - 📱 Responsive & mobile-friendly design
-- 💡 Tips for secure password creation
 
 ---
 
