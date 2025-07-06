@@ -8,9 +8,7 @@ Provides real-time feedback on password strength with dynamic styling, hints, an
 ## ✨ Features
 
 - ✅ Live password strength analysis (Weak / Medium / Strong)
-- 📊 Strength meter with color-coded feedback
 - 🌙 Light/Dark mode toggle
-- 📱 Responsive & mobile-friendly design
 
 ---
 
